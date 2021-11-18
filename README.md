@@ -1,12 +1,6 @@
-<div>
+# 👋 Hi there, thank you for visiting my profile</a> <img align='right' src="/assets/cat.gif" height="" width="300" alt="Coding Cat">
 
-# 👋 Hi there, Thank you for visiting my profile</a> <img align='right' src="/assets/cat.gif" height="" width="300" alt="Coding Cat">
-
-</div>
-
-# <h1><a href="https://quang.work">quang.work</a> - Visit my portfolio</h1>
-
----
+# <h1><a href="https://quang.work">quang.work</a> - Checkout my portfolio</h1>
 
 ## <img src="/assets/code.gif" width="32" align="left"> Technologies I have used
 
@@ -19,10 +13,13 @@
 			<img src="/assets/icons/react.svg" width="60"/>
 		</td>
 		<td>
-			<img src="/assets/icons/react_saga.svg" width="60"/>
+			<img src="/assets/icons/redux.svg" width="60"/>
+		</td>
+		<td>
+			<img src="/assets/icons/redux_saga.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/assets/icons/angular.png" width="60"/>
+			<img src="/assets/icons/angular.svg" width="60"/>
 		</td>
 		<td >
 			<img src="/assets/icons/sass.svg" width="60"/>
@@ -43,13 +40,14 @@
     <tr align="center">
     	<td>TypeScript</td>
     	<td>React</td>
-			<td>React Saga</td>
+	<td>Redux</td>
+	<td>Redux Saga</td>
     	<td>Angular</td>
     	<td>SASS</td>
     	<td>LESS</td>
     	<td>Figma</td>
-			<td>Material UI</td>
-			<td>Tailwind CSS</td>
+	<td>Material UI</td>
+	<td>Tailwind CSS</td>
     </tr>
 </table>
 <table >
@@ -76,7 +74,7 @@
 			<img src="/assets/icons/webpack.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/assets/icons/socket_slackio.png" width="60"/>
+			<img src="/assets/icons/socket_io.png" width="60"/>
 		</td>
 		<td>
 			<img src="/assets/icons/auth0.svg" width="60"/>

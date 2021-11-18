@@ -1,8 +1,10 @@
 # 👋 Hi there, thank you for visiting my profile</a> <img align='right' src="/assets/cat.gif" height="" width="300" alt="Coding Cat">
 
-# <h1><a href="https://quang.work" target="_blank">quang.work</a> - Checkout my portfolio</h1>
+Checkout my portfolio - <a href="https://quang.work" target="_blank">quang.work</a>
 
-## <img src="/assets/code.gif" width="32" align="left"> Technologies I have used
+<br />
+
+# <img src="/assets/code.gif" width="32" align="left"> My techs
 
 <table >
 	<tr align="center">

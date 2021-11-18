@@ -30,7 +30,7 @@ Checkout my portfolio - <a href="https://quang.work" target="_blank">quang.work<
 			<img src="/assets/icons/less.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/assets/icons/figma.svg" width="60"/>
+			<img src="/assets/icons/bootstrap.svg" width="60"/>
 		</td>
 		<td>
 			<img src="/assets/icons/material_ui.svg" width="60"/>
@@ -47,7 +47,7 @@ Checkout my portfolio - <a href="https://quang.work" target="_blank">quang.work<
     	<td>Angular</td>
     	<td>SASS</td>
     	<td>LESS</td>
-    	<td>Figma</td>
+    	<td>Bootstrap</td>
 	<td>Material UI</td>
 	<td>Tailwind CSS</td>
     </tr>
@@ -76,7 +76,7 @@ Checkout my portfolio - <a href="https://quang.work" target="_blank">quang.work<
 			<img src="/assets/icons/webpack.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/assets/icons/socket_io.png" width="60"/>
+			<img src="/assets/icons/socket_io.svg" width="60"/>
 		</td>
 		<td>
 			<img src="/assets/icons/auth0.svg" width="60"/>
@@ -112,10 +112,10 @@ Checkout my portfolio - <a href="https://quang.work" target="_blank">quang.work<
 			<img src="/assets/icons/slack.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/assets/icons/bootstrap.svg" width="60"/>
+			<img src="/assets/icons/photoshop.svg" width="60"/>
 		</td>
 		<td >
-			<img src="/assets/icons/photoshop.svg" width="60"/>
+			<img src="/assets/icons/figma.svg" width="60"/>
 		</td>
 	</tr>
 	<tr align="center">
@@ -124,7 +124,7 @@ Checkout my portfolio - <a href="https://quang.work" target="_blank">quang.work<
 		<td>Google Cloud</td>
 		<td>MongoDB</td>
 		<td>Slack</td>
-		<td>Bootstrap</td>
 		<td>Photoshop</td>
+		<td>Figma</td>
 	</tr>
 </table>

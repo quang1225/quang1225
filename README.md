@@ -4,7 +4,7 @@ Checkout my portfolio, projects → <a href="https://quang.work" target="_blank"
 
 <br />
 
-# <img src="/assets/code.gif" width="32" align="left"> My techs
+# <img src="/assets/code.gif" width="32" align="left">  My skills
 
 <table >
 	<tr align="center">

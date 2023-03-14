@@ -1,10 +1,10 @@
 # 👋 Hi there, thank you for visiting my profile</a> <img align='right' src="/assets/cat.gif" height="" width="300" alt="Coding Cat">
 
-Checkout my portfolio, projects → <a href="https://quang.work" target="_blank"><b>https://quang.work</b></a>
+Checkout my newest portfolio, projects → <a href="https://quang.work" target="_blank"><b>https://quang.work</b></a>
 
 <br />
 
-# <img src="/assets/code.gif" width="32" align="left">  My skills
+# <img src="/assets/code.gif" width="32" align="left">&nbsp; My skills
 
 <table >
 	<tr align="center">

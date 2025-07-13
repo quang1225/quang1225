@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Quang!
+# 👋 Hi there, i'm Quang Le!
 
 <div align="center">
   <img src="/assets/cat.gif" height="200" width="300" alt="Coding Cat">

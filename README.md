@@ -8,7 +8,7 @@
 
 - My strengths are UI/ UX, building scalable web apps + reusable components/ NPM packages and monitoring, optimizing web performance.
 
-- Playing with Gen AI is one of my hobby now.
+- Playing with Gen AI is one of my hobbies now.
 
 ---
 

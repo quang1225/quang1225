@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 
-- My strengths are UI/ UX, building scalable web apps + reusable components/ NPM packages and monitoring, optimizing web performance.
+- I'm a experienced Frontend Engineer (since 2015) from Viet Nam. My strengths are UI/ UX, building scalable web apps + reusable components/ NPM packages and monitoring, optimizing web performance.
 
 - Playing with Gen AI is one of my hobbies now.
 
